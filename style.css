@@ -14,7 +14,7 @@ html {
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  width: 30%;
+  width: 600px;
   margin: 20rem auto;
   display: flex;
   border-radius: 8px;
@@ -107,7 +107,7 @@ html {
 @media screen and (max-width: 1440px) {
   .card {
     flex-direction: column;
-    width: 27%;
+    width: 400px;
   }
   .img-conatainer {
     background: url("./images/image-product-mobile.jpg");
